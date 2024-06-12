@@ -21,6 +21,8 @@ Driver Class: The main class that runs all the classes.
 Main Menu: Provides a user interface to navigate through the system.
 Exit Class: Handles the termination of the application.
 
+
+
 Database Connection: Manages the connection to the MySQL database.
  
 Patient Table: id, name, age, gender
